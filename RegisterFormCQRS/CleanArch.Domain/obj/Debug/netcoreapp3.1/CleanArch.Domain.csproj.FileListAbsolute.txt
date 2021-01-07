@@ -1,7 +1,6 @@
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.deps.json
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
-D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csprojAssemblyReference.cache
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfoInputs.cache
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfo.cs
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csproj.CoreCompileInputs.cache

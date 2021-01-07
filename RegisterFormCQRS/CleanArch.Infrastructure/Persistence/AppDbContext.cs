@@ -12,10 +12,10 @@ namespace CleanArch.Infrastructure.Persistence
 {
     public class AppDbContext : DbContext , IDbContext
     {
-        public virtual DbSet<User> User { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public virtual DbSet<Governate> Governate { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public virtual DbSet<City> City { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public virtual DbSet<AddressInfo> AddressInfo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public virtual DbSet<User> User { get; set; }
+        public virtual DbSet<Governate> Governate { get; set; }
+        public virtual DbSet<City> City { get; set; }
+        public virtual DbSet<AddressInfo> AddressInfo { get; set; }
 
         public AppDbContext()
         {
@@ -27,7 +27,7 @@ namespace CleanArch.Infrastructure.Persistence
         {
         }
 
-        public Task<int> SaveChangesAsync(CancellationToken cancellationToken)
+        public override Task<int> SaveChangesAsync(CancellationToken cancellationToken)
         {
             return base.SaveChangesAsync(cancellationToken);
         }
@@ -45,15 +45,15 @@ namespace CleanArch.Infrastructure.Persistence
             modelBuilder.Entity<City>().HasData
                 (
                 new City() { Id = 1, CityName = "Cairo"},
-                new City() { Id = 1, CityName = "Alex" },
-                new City() { Id = 1, CityName = "Assuit" }
+                new City() { Id = 2, CityName = "Alex" },
+                new City() { Id = 3, CityName = "Assuit" }
                 );
 
             modelBuilder.Entity<Governate>().HasData
                 (
                 new Governate() { Id = 1,  GovName= "Egypt" },
-                new Governate() { Id = 1, GovName = "Saudi" },
-                new Governate() { Id = 1, GovName = "France" }
+                new Governate() { Id = 2, GovName = "Saudi" },
+                new Governate() { Id = 3, GovName = "France" }
                 );
 
 

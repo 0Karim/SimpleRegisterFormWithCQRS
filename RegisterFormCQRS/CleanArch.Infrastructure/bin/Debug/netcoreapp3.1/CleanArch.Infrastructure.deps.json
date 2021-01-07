@@ -9,6 +9,7 @@
       "CleanArch.Infrastructure/1.0.0": {
         "dependencies": {
           "CleanArch.Application": "1.0.0",
+          "Microsoft.EntityFrameworkCore.Design": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.1"
         },

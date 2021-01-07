@@ -7,7 +7,6 @@ D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQR
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Presentation\bin\Debug\netcoreapp3.1\CleanArch.Presentation.runtimeconfig.dev.json
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Presentation\bin\Debug\netcoreapp3.1\CleanArch.Presentation.dll
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Presentation\bin\Debug\netcoreapp3.1\CleanArch.Presentation.pdb
-D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Presentation\obj\Debug\netcoreapp3.1\CleanArch.Presentation.csprojAssemblyReference.cache
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Presentation\obj\Debug\netcoreapp3.1\CleanArch.Presentation.AssemblyInfoInputs.cache
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Presentation\obj\Debug\netcoreapp3.1\CleanArch.Presentation.AssemblyInfo.cs
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Presentation\obj\Debug\netcoreapp3.1\CleanArch.Presentation.csproj.CoreCompileInputs.cache
