@@ -9,10 +9,10 @@ namespace CleanArch.Domain.Entities
     {
         public int Id { get; set; }
 
-        [ForeignKey("City")]
+        [ForeignKey("Governate")]
         public int GovId { get; set; }
 
-        [ForeignKey("Governate")]
+        [ForeignKey("City")]
         public int CityId { get; set; }
 
         [ForeignKey("User")]
@@ -21,6 +21,8 @@ namespace CleanArch.Domain.Entities
         public string BuildingNumber { get; set; }
 
         public string FlatNumber { get; set; }
+
+        public string Street { get; set; }
 
         public virtual City City { get; set; }
 

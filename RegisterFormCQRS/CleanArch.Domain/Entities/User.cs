@@ -18,6 +18,8 @@ namespace CleanArch.Domain.Entities
 
         public string MobileNumber { get; set; }
 
+        public string Email { get; set; }
+
         public ICollection<AddressInfo> AddressList { get; set; }
     }
 }

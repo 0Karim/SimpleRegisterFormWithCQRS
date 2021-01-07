@@ -19,4 +19,10 @@
     <ProjectReference Include="..\CleanArch.Domain\CleanArch.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Lookups\" />
+    <Folder Include="Users\Queries\Dtos\" />
+    <Folder Include="Users\Queries\Query\" />
+  </ItemGroup>
+
 </Project>
