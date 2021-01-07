@@ -11,10 +11,6 @@ namespace CleanArch.Presentation.Controllers.User
 {
     public class UserController : ApiController
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
 
         [HttpPost(ApiRoutes.User.UserApi.CreateUser)]
         public async Task<ActionResult<ResponseResult>> CreateClassRoom(CreateUserCommand command)

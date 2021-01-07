@@ -34,6 +34,16 @@ namespace CleanArch.Presentation
             services.AddInfrastructure(Configuration);
 
             services.AddControllers();
+
+            services.AddSwaggerGen(options =>
+            {
+                options.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
+                {
+                    Title = "Create User API",
+                    Version = "v1",
+                    Description = "Sample api for create user",
+                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -54,6 +64,9 @@ namespace CleanArch.Presentation
             {
                 endpoints.MapControllers();
             });
+
+            app.UseSwagger();
+            app.UseSwaggerUI(options => options.SwaggerEndpoint("/swagger/v1/swagger.json", "CreateUser Services"));
         }
     }
 }
