@@ -1,8 +1,12 @@
-D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csprojAssemblyReference.cache
-D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.AssemblyInfoInputs.cache
-D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.AssemblyInfo.cs
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Application.deps.json
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csprojAssemblyReference.cache
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.AssemblyInfoInputs.cache
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.AssemblyInfo.cs
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csproj.CoreCompileInputs.cache
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csproj.CopyComplete
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.dll
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.pdb
