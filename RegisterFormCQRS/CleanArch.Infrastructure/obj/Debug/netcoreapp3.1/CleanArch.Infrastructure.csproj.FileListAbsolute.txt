@@ -4,6 +4,13 @@ D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQR
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.csprojAssemblyReference.cache
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.AssemblyInfoInputs.cache
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.AssemblyInfo.cs
-D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.dll
 D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.pdb
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.csproj.CopyComplete
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.runtimeconfig.json
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\bin\Debug\netcoreapp3.1\CleanArch.Infrastructure.runtimeconfig.dev.json
+D:\MyLearn\SimpleRegisterFormWithCQRS\SimpleRegisterFormWithCQRS\RegisterFormCQRS\CleanArch.Infrastructure\obj\Debug\netcoreapp3.1\CleanArch.Infrastructure.genruntimeconfig.cache
